@@ -1,5 +1,6 @@
 """
 fastapi_app.py
+basic model 
 --------------
 This is the FastAPI server that handles ML predictions.
 
