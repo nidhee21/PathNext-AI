@@ -173,4 +173,4 @@ if __name__ == "__main__":
     model = train_and_evaluate(X, y)
     save_model(model, stream_encoder, label_encoder, feature_cols)
 
-    print("\nDone! Model is ready.")
+    print("\nModel is ready.")
